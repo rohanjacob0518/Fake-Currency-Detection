@@ -1,4 +1,4 @@
-#Fake Currency Detection 
+# Fake Currency Detection 
 
 
 📖 About the Project

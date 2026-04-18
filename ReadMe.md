@@ -1,4 +1,6 @@
-#Fake Currency Detection 💵🔍
+#Fake Currency Detection 
+
+
 📖 About the Project
 The Fake Currency Detection project is a mobile application designed to help users identify counterfeit Indian banknotes (100, 200, and 500 denominations). By taking a picture of a currency note using the mobile app, the system processes the image using advanced Computer Vision algorithms to determine its authenticity.
 
